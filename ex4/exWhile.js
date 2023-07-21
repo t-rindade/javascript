@@ -24,27 +24,27 @@ do {
   answer = prompt("> ");
 
   switch (answer) {
-    case "1" && "login":
+    case "1":
       exercicio1();
       break;
 
-    case "2" && "week":
+    case "2":
       exercicio2();
       break;
 
-    case "3" && "crescent":
+    case "3":
       exercicio3();
       break;
 
-    case "4" && "idade":
+    case "4":
       exercicio4();
       break;
 
-    case "5" && "desconto":
+    case "5":
       exercicio5();
       break;
 
-    case "6" && "imc":
+    case "6":
       exercicio6();
       break;
 
